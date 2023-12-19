@@ -28,5 +28,8 @@ Os dados foram extraídos inicialmente no formato Excel (xlsx) da CRM, em seguid
 
 Acesse Aqui.
 
+#### Resultado do Script:
+![resultado-1-script](https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/2bb273f8-ba6a-426f-974c-0dc361520023)
+
 
 
