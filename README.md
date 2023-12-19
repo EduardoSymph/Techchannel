@@ -26,7 +26,7 @@ Os dados foram extraídos inicialmente no formato Excel (xlsx) da CRM, em seguid
 #### Script SQL:
 ![script-1](https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/0b7e50fd-162c-4c5c-9247-ca27eafba662)
 
-Acesse Aqui.
+<a href="https://github.com/EduardoSymph/Techchannel-Dashboard/blob/main/analises_gerais.sql" target="_blank"> Acesse aqui o Script</a>.
 
 #### Resultado do Script:
 ![resultado-1-script](https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/2bb273f8-ba6a-426f-974c-0dc361520023)
