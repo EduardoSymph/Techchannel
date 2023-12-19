@@ -18,3 +18,7 @@ Você pode <a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00N
 - ``Microsoft Excel``
 - ``SQL``
 - ``Power BI``
+
+<h2>Análises do Projeto 🧐</h2>
+
+Os dados foram extraídos inicialmente no formato Excel (xlsx) da CRM, em seguida, passaram por um processo de tratamento antes de serem inseridos no banco de dados, para assim realizarmos as primeiras <b>análises exploratórias</b> dos dados, fazendo verificações que futuramente serão replicadas no Power BI.
