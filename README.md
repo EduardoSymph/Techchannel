@@ -22,3 +22,11 @@ Você pode <a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00N
 <h2>Análises do Projeto 🧐</h2>
 
 Os dados foram extraídos inicialmente no formato Excel (xlsx) da CRM, em seguida, passaram por um processo de tratamento antes de serem inseridos no banco de dados, para assim realizarmos as primeiras <b>análises exploratórias</b> dos dados, fazendo verificações que futuramente serão replicadas no Power BI.
+
+#### Script SQL:
+![script-1](https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/0b7e50fd-162c-4c5c-9247-ca27eafba662)
+
+Acesse Aqui.
+
+
+
