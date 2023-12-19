@@ -10,8 +10,8 @@ Projeto focado na visualização do progresso dos projetos da Techchannel por fa
 [Pipefy](https://www.pipefy.com/pt-br/), em seguida, são tratados no Excel e por fim apresentados no Power BI, fornecendo insights em reuniões estratégicas.
 
 <h2>Acesso ao Projeto :open_file_folder:</h2>
-Você pode <a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00NGRmLThhMzYtNWI2N2U4OTA1NGE1IiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9" target="_blank">acessar o resultado do projeto</a> ou ir para o
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00NGRmLThhMzYtNWI2N2U4OTA1NGE1IiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9" target="_blank"> repositório</a>.
+Você pode <a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00NGRmLThhMzYtNWI2N2U4OTA1NGE1IiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9">acessar o resultado do projeto</a> ou ir para o
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00NGRmLThhMzYtNWI2N2U4OTA1NGE1IiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9"> repositório</a>.
 
 <h2>Técnologias Utilizadas 🛠️</h2>
 
