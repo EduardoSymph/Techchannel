@@ -1,6 +1,6 @@
 <h2 align="center">  Dashboard de Vendas Techchannel (2023) </h2>
 
-<img href= 'https://app.powerbi.com/view?r=eyJrIjoiMjQ4MzdiMmQtMWRmYi00NGRmLThhMzYtNWI2N2U4OTA1NGE1IiwidCI6ImFlNzg1M2E2LWI5NjEtNDBhNS04MDQxLTBmMzNjZGJkZGRiYyJ9' src="https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/7726ea59-557b-4362-9b98-de28b32e4f2c" /><br>
+![dashboard_techchannel_image](https://github.com/EduardoSymph/Techchannel-Dashboard/assets/134222436/84698e7c-49ce-4112-ba04-9ea3a7412a57)<br>
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Projeto-Conclu%C3%ADdo-brightgreen) 
 
