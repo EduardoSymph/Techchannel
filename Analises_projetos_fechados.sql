@@ -1,6 +1,6 @@
 USE Techchannel;
 
--- Soma de Projetos Fechados no 4º Quarter --
+-- Soma de Projetos Fechados no 4Âº Quarter --
 SELECT
     SUM(Proposta_Inicial) AS SomaProjetosFechados
 FROM
@@ -12,7 +12,7 @@ WHERE
 
 -- Projetos Fechados do maior ao menor --
 SELECT
-	Projeto
+     Projeto
     ,Proposta_Inicial AS ProjetosFechados
 FROM
     vendas
@@ -34,7 +34,7 @@ GROUP BY
 ORDER BY
     Trimestre;
 
--- Soma de Projetos Fechados por Responsáveis e Qtd de Projetos que cada um realizou --
+-- Soma de Projetos Fechados por ResponsÃ¡veis e Qtd de Projetos que cada um realizou --
 SELECT
     Responsavel,
     COUNT(*) AS TotalProjetosFechados
