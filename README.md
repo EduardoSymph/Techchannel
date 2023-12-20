@@ -31,4 +31,5 @@ Os dados foram extraídos inicialmente no formato Excel (xlsx) da CRM, em seguid
 
 <a href="https://github.com/EduardoSymph/Techchannel-Dashboard/blob/main/analises_gerais.sql" target="_blank"> Acesse aqui o Script</a>.
 
+Por fim, foram feitas análises voltadas aos projetos Fechados no ano, você pode <a href="https://github.com/EduardoSymph/Techchannel-Dashboard/blob/main/analises_gerais.sql" target="_blank"> acessá-las aquit</a>.
 
